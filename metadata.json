@@ -1,0 +1,6 @@
+{
+  "name": "Operations Console",
+  "description": "Mission-critical operations console for enterprise hospitality IT asset management, rack infrastructure, and telemetry oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
